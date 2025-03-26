@@ -6,6 +6,7 @@
 <p>📷 I am a photographer</p>
 <p>🔗 I am an aspiring web developer</p>
 
+<p><b> 🚧🛑🚧🛑🚧 UNDER CONSTRUCTION 🚧🛑🚧🛑🚧 </b></p>
 <p><b>About Me:</b></p>
 <p><b>Technical Skills:</b></p>
 <p><b>Key Projects:</b></p>
