@@ -1,6 +1,7 @@
 ## Hi there, I'm Babz! 🍒
 
 <p><b>Who am I?</b></p>
+<p>🎨 I am an artist</p>
 <p>💻 I am a graphic designer</p>
 <p>📷 I am a photographer</p>
 <p>🔗 I am an aspiring web developer</p>
