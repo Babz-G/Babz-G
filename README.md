@@ -1,4 +1,4 @@
-## Hi there, I'm Babz! 👋
+## Hi there, I'm Babz! 🍒
 
 <p>🎨 I am an artist</p>
 <p>💻 I am a graphic designer</p>
