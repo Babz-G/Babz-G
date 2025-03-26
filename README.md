@@ -5,6 +5,12 @@
 <p>📷 I am a photographer</p>
 <p>🔗 I am an aspiring web developer</p>
 
+About Me:
+Technical Skills:
+Key Projects:
+Leadership + Advocacy:
+Professional Goals:
+Connect With Me:
 
 <!--
 **Babz-G/Babz-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
