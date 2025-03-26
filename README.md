@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Babz! 👋
+
+<p>🎨 I am an artist</p>
+<p>💻 I am a graphic designer</p>
+<p>📷 I am a photographer</p>
+<p>🔗 I am an aspiring web developer</p>
+
 
 <!--
 **Babz-G/Babz-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
