@@ -5,8 +5,13 @@
 <li>🎨 I am an artist</li>
 <li>💻 I am a graphic designer</li>
 <li>📷 I am a photographer</li>
-<li>🔗 I am an aspiring web developer</li>
-</ul>ul>
+<li>🔗 I am an aspiring UX/UI Designer</li>
+</ul>
+
+
+
+
+
 
 <p><b> 🚧🛑🚧🛑🚧 UNDER CONSTRUCTION 🚧🛑🚧🛑🚧 </b></p>
 <p><b>About Me:</b></p>
