@@ -1,10 +1,12 @@
 ## Hi there, I'm Babz! 🍒
 
-<p><b>Who am I?</b></p>
-<p>🎨 I am an artist</p>
-<p>💻 I am a graphic designer</p>
-<p>📷 I am a photographer</p>
-<p>🔗 I am an aspiring web developer</p>
+<p><b>Who am I?</b>
+<ul>
+<li>🎨 I am an artist</li>
+<li>💻 I am a graphic designer</li>
+<li>📷 I am a photographer</li>
+<li>🔗 I am an aspiring web developer</li>
+</ul>ul>
 
 <p><b> 🚧🛑🚧🛑🚧 UNDER CONSTRUCTION 🚧🛑🚧🛑🚧 </b></p>
 <p><b>About Me:</b></p>
