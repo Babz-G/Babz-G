@@ -7,32 +7,3 @@
 <li>💻 I am a graphic designer</li>
 <li>🔗 I am an aspiring UX/UI Designer</li>
 </ul>
-
-
-
-
-
-
-<p><b> 🚧🛑🚧🛑🚧 UNDER CONSTRUCTION 🚧🛑🚧🛑🚧 </b></p>
-<p><b>About Me:</b></p>
-<p><b>Technical Skills:</b></p>
-<p><b>Key Projects:</b></p>
-<p><b>Professional Goals:</b></p>
-<p><b>Leadership + Advocacy:</b></p>
-<p><b>Professional Goals:</b></p>
-<p><b>Connect With Me:</b></p>
-
-<!--
-**Babz-G/Babz-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
