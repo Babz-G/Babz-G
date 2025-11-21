@@ -2,8 +2,8 @@
 
 **Who am I?**
 
-🎨 I am an artist  
-📷 I am a photographer
-🌐 I am a web developer 
-💻 I am a graphic designer  
-👁️  I am an aspiring UX/UI Designer
+🎨 I am an artist<br>
+📷 I am a photographer<br>
+🌐 I am a web developer<br>
+💻 I am a graphic designer<br>
+👁️ I am an aspiring UX/UI Designer
