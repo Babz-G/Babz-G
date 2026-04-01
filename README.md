@@ -11,9 +11,9 @@ Graphic designer transitioning into UX/UI and web development, bridging visual c
 
 **🥇 GDI Hackathon — 1st Place | November 2025**
 
-Participated in Girl Develop It's 4-day "Break Through 2025" hackathon where my team built **Spending Checkpoint** — a Chrome extension that helps users make mindful purchasing decisions. My role was UX/UI Design. I designed Penny, our friendly feline spending buddy, created her visual identity, and built an accessible interface following WCAG guidelines including screen reader support, keyboard navigation, light/dark mode, and reduced motion preferences.
+Participated in Girl Develop It's 4-day "Break Through 2025" hackathon where my team built **Spending Checkpoint**, a Chrome extension that helps users make mindful purchasing decisions. My role was UX/UI Design. I designed Penny, our friendly feline spending buddy, created her visual identity, and built an accessible interface following WCAG guidelines including screen reader support, keyboard navigation, light/dark mode, and reduced motion preferences.
 
-🔗 [View the project](https://github.com/ggrossvi/spending-checkpoint)
+🔗 [View Spending Checkpoint](https://github.com/ggrossvi/spending-checkpoint)
 
 ---
 
