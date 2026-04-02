@@ -75,3 +75,4 @@ Participated in Girl Develop It's 4 day "Break Through 2025" hackathon where my 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babzgaynor)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbaramgaynor@gmail.com)
