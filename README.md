@@ -1,6 +1,6 @@
 ## 🍒 Hi there, I'm Babz! 
 
-🎨 Graphic Designer × Web Developer × Aspiring UX/UI Designer  
+🎨 Graphic Designer × Jr Full Stack Developer × Aspiring UX/UI Designer  
 
 Graphic designer transitioning into UX/UI and web development, bridging visual creativity with technical innovation. Well versed in Adobe Creative Suite, I bring a strong design foundation and a growing technical skill set in HTML, CSS, JavaScript, React, and SQL. Passionate about accessible, user-centered design and the empathy driven process behind it, committed to building inclusive digital experiences that solve real problems for real people.
 
