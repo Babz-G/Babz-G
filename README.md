@@ -18,15 +18,6 @@ Participated in Girl Develop It's 4 day "Break Through 2025" hackathon where my 
 🔗 [View Spending Checkpoint](https://github.com/ggrossvi/spending-checkpoint)
 
 ---
-<img src="./trek-li-logo.png" width="130" alt="Trek Long Island Convention App" />
-
-**📱 Trek Long Island 2026 Official Convention App | 2026**
-
-My first real world commissioned project. Hired by Trek Long Island to design and develop the official companion app for their annual Star Trek convention. Built with React Native + Expo SDK 56 and published to both the Apple App Store and Google Play Store.
-
-🔗 [View Trek LI App](https://github.com/Babz-G/trek-li-app-2026)
-
----
 
 ## 🛠️ Skills
 
